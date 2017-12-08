@@ -16,3 +16,4 @@ chmod -R 755 wp-content
 chown -R apache.apache wp-content
 service httpd start
 chkconfig httpd on
+#swakin reddy test
